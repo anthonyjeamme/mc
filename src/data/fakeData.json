@@ -1,0 +1,2380 @@
+{
+    "list": [{
+        "duration": {
+            "days": 0,
+            "hours": 1,
+            "minutes": 0
+        },
+        "contacts": {
+            "socials": {
+                "facebook": "https://fr-fr.facebook.com/fondationblachere",
+                "instagram": "",
+                "twitter": ""
+            },
+            "mail": "fondation@blachere-illumination.com",
+            "website": "http://www.fondationblachere.org",
+            "phone": "0432520615"
+        },
+        "title": "Fondation Blachère",
+        "description": "Au coeur de la zone industrielle, la Fondation Blachère propose dans son centre d'Art trois expositions d'art contemporain africain par an, ainsi que la Boutik, magasin d'artisanat africain, et le Store, magasin d'usine de Blachère Illumination.\n\nLa Fondation Blachère participe au développement de l'Afrique en soutenant la création contemporaine africaine. Avec trois expositions d'art contemporain africain par an et l'accueil en résidence, elle assure la promotion des artistes du continent et de la diaspora. \nLa Boutik présente une large sélection de pièces d'artisanat et de design d'Afrique, dans une démarche de commerce équitable.\n\nLe store Blachère propose une gamme de produits lumineux à destination des particuliers, pour la maison et le jardin.",
+        "gallery": [{
+            "infos": {
+                "width": 800,
+                "height": 600
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7debd578aae00810c02be0",
+            "parent": "hcxo1yp6j06kvycn4apcym",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7debd578aae00810c02be0",
+            "created": "2019-09-15T07:44:21.375Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 600
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7dec1778aae00810c02be1",
+            "parent": "hcxo1yp6j06kvycn4apcym",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7dec1778aae00810c02be1",
+            "created": "2019-09-15T07:45:27.277Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 600
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7dec4a78aae00810c02be2",
+            "parent": "hcxo1yp6j06kvycn4apcym",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7dec4a78aae00810c02be2",
+            "created": "2019-09-15T07:46:18.552Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 533
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7dec7578aae00810c02be3",
+            "parent": "hcxo1yp6j06kvycn4apcym",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7dec7578aae00810c02be3",
+            "created": "2019-09-15T07:47:01.841Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 533
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7dec9d78aae00810c02be4",
+            "parent": "hcxo1yp6j06kvycn4apcym",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7dec9d78aae00810c02be4",
+            "created": "2019-09-15T07:47:41.533Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 533
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7decc378aae00810c02be5",
+            "parent": "hcxo1yp6j06kvycn4apcym",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7decc378aae00810c02be5",
+            "created": "2019-09-15T07:48:19.753Z",
+            "__v": 0
+        }],
+        "constraints": ["5d428f9258675706853b4b95", "5d4294ab4eed230685ea3403", "5d429c764eed230685ea3404", "5d429c894eed230685ea3405"],
+        "free": true,
+        "min_price": 0,
+        "_id": "5d7cbff478aae00810c02b44",
+        "address": {
+            "postal_code": "84400",
+            "locality": "Apt",
+            "country": "France",
+            "full_address": "384 Avenue des Argiles, 84400 Apt, France",
+            "place_id": "ChIJs_EkIwsWyhIR7qgVDmr1ReI",
+            "location": {
+                "lng": "5.374357599999939",
+                "lat": "43.89051479999999"
+            }
+        },
+        "pricings": null,
+        "schedule": {
+            "periods": [{
+                "type": "custom",
+                "days": [{
+                    "name": "lundi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "samedi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "dimanche",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }],
+                "_id": "5d99ab6a7aeed5083aca4842",
+                "start_date": "16/11/2019",
+                "end_date": "24/12/2019",
+                "created": "2019-10-06T08:52:58.886Z",
+                "__v": 0
+            }, {
+                "type": "custom",
+                "days": [{
+                    "name": "lundi",
+                    "closed": "true"
+                }, {
+                    "name": "mardi",
+                    "closed": "true"
+                }, {
+                    "name": "mercredi",
+                    "closed": "true"
+                }, {
+                    "name": "jeudi",
+                    "closed": "true"
+                }, {
+                    "name": "vendredi",
+                    "closed": "true"
+                }, {
+                    "name": "samedi",
+                    "closed": "true"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5d99ab6a7aeed5083aca4843",
+                "start_date": "25/12/2019",
+                "end_date": "31/12/2019",
+                "created": "2019-10-06T08:52:58.886Z",
+                "__v": 0
+            }],
+            "_id": "5d925bd0299e2e083ac0efd5",
+            "global": {
+                "type": "global",
+                "days": [{
+                    "name": "lundi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "samedi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5d925bd0299e2e083ac0efd2",
+                "created": "2019-09-30T19:47:28.871Z",
+                "__v": 0
+            },
+            "closed_periods": [{
+                "_id": "5d99ab6a7aeed5083aca4844",
+                "start_date": "25/12",
+                "end_date": "25/12"
+            }],
+            "created": "2019-09-30T19:47:28.887Z",
+            "__v": 0
+        }
+    }, {
+        "duration": {
+            "days": 0,
+            "hours": 1,
+            "minutes": 0
+        },
+        "contacts": {
+            "socials": {
+                "facebook": "https://www.facebook.com/LesFleuronsApt",
+                "instagram": "",
+                "twitter": ""
+            },
+            "mail": "fleurons-apt@aptunion.com",
+            "website": "http://www.lesfleurons-apt.com",
+            "phone": "0490763143"
+        },
+        "title": "La Maison du Fruit Confit",
+        "description": "Située à l’entrée de la ville d’Apt, la Maison du Fruit Confit est au carrefour des itinéraires du Lubéron. La boutique dans l'enceinte des ateliers de fabrication propose à la vente directe des fruits confits et spécialités provençales.\n\nNous vous proposons un espace de 300m2 dédiés à la vente directe. Une table de dégustation est mise à votre disposition vous permettant de découvrir nos produits.\n\nL'espace muséographique doté d’un parcours olfactif vous plonge dans l’univers du fruit confit et ses secrets tout en stimulant vos cinq sens. En libre accès et gratuit.\n\nLe salon de thé convivial vous propose de partager et déguster une pâtisserie gourmande confectionnée par nos partenaires locaux tout en savourant une boisson.\n\nDes animations gourmandes et des ateliers culinaires seront régulièrement organisés tout au long de l'année.\n\nVisite en groupe (15 à 30 personnes) : 50€\nVisite en groupe (30 à 60 personnes, deux groupes seront constitués) : 100€",
+        "gallery": [{
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e08de78aae00810c03a08",
+            "parent": "3mga8ppdpixcyhpfz5fe26",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e08de78aae00810c03a08",
+            "created": "2019-09-15T09:48:14.528Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 533,
+                "height": 800
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e08e278aae00810c03a09",
+            "parent": "3mga8ppdpixcyhpfz5fe26",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e08e278aae00810c03a09",
+            "created": "2019-09-15T09:48:18.054Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 533,
+                "height": 800
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e08e578aae00810c03a0a",
+            "parent": "3mga8ppdpixcyhpfz5fe26",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e08e578aae00810c03a0a",
+            "created": "2019-09-15T09:48:21.700Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 533,
+                "height": 800
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e08ea78aae00810c03a0b",
+            "parent": "3mga8ppdpixcyhpfz5fe26",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e08ea78aae00810c03a0b",
+            "created": "2019-09-15T09:48:26.702Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 533,
+                "height": 800
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e08f378aae00810c03a0c",
+            "parent": "3mga8ppdpixcyhpfz5fe26",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e08f378aae00810c03a0c",
+            "created": "2019-09-15T09:48:35.539Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 533,
+                "height": 800
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e08f878aae00810c03a0d",
+            "parent": "3mga8ppdpixcyhpfz5fe26",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e08f878aae00810c03a0d",
+            "created": "2019-09-15T09:48:40.299Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 533
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d8bd0b83a9cce08394118ac",
+            "parent": "cdh4zim3fr9d62px6ays5",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d8bd0b83a9cce08394118ac",
+            "created": "2019-09-25T20:40:24.706Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 533
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d8bd0be3a9cce08394118ad",
+            "parent": "cdh4zim3fr9d62px6ays5",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d8bd0be3a9cce08394118ad",
+            "created": "2019-09-25T20:40:30.039Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 533
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d8bd0c33a9cce08394118ae",
+            "parent": "cdh4zim3fr9d62px6ays5",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d8bd0c33a9cce08394118ae",
+            "created": "2019-09-25T20:40:35.305Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 533
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d8bd0c93a9cce08394118af",
+            "parent": "cdh4zim3fr9d62px6ays5",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d8bd0c93a9cce08394118af",
+            "created": "2019-09-25T20:40:41.133Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 533
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d8bd0ce3a9cce08394118b0",
+            "parent": "cdh4zim3fr9d62px6ays5",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d8bd0ce3a9cce08394118b0",
+            "created": "2019-09-25T20:40:46.304Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 533
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d8bd0d53a9cce08394118b1",
+            "parent": "cdh4zim3fr9d62px6ays5",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d8bd0d53a9cce08394118b1",
+            "created": "2019-09-25T20:40:53.343Z",
+            "__v": 0
+        }],
+        "constraints": ["5d4c339231d36b081432f6f6"],
+        "free": true,
+        "min_price": 0,
+        "_id": "5d7e07c478aae00810c039ee",
+        "address": {
+            "postal_code": "",
+            "locality": "Apt",
+            "country": "France",
+            "full_address": "D900, Apt, France",
+            "place_id": "EhFEOTAwLCBBcHQsIEZyYW5jZSIuKiwKFAoSCRdRpt7PEcoSEfV4uCpAKc_pEhQKEgnVLpD5EBbKEhHwxo_9pRkIBA",
+            "location": {
+                "lng": "5.386065199999962",
+                "lat": "43.878797"
+            }
+        },
+        "pricings": null,
+        "schedule": {
+            "periods": [{
+                "type": "custom",
+                "days": [{
+                    "name": "lundi",
+                    "closed": "true"
+                }, {
+                    "name": "mardi",
+                    "closed": "true"
+                }, {
+                    "name": "mercredi",
+                    "closed": "true"
+                }, {
+                    "name": "jeudi",
+                    "closed": "true"
+                }, {
+                    "name": "vendredi",
+                    "closed": "true"
+                }, {
+                    "name": "samedi",
+                    "closed": "true"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5db14f06fd7aee083a4592e6",
+                "start_date": "01/01/2019",
+                "end_date": "26/08/2019",
+                "created": "2019-10-24T07:13:10.396Z",
+                "__v": 0
+            }],
+            "_id": "5d96605f025640083a63340d",
+            "global": {
+                "type": "global",
+                "days": [{
+                    "name": "lundi",
+                    "start": {
+                        "hours": "9",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "30"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "9",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "30"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "9",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "30"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "9",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "30"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "9",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "30"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "samedi",
+                    "start": {
+                        "hours": "9",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "30"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5d96605f025640083a63340b",
+                "created": "2019-10-03T20:55:59.526Z",
+                "__v": 0
+            },
+            "closed_periods": [{
+                "_id": "5db14f06fd7aee083a4592e7",
+                "start_date": "19/12",
+                "end_date": "19/12"
+            }],
+            "created": "2019-10-03T20:55:59.534Z",
+            "__v": 0
+        }
+    }, {
+        "duration": {
+            "days": 0,
+            "hours": 2,
+            "minutes": 0
+        },
+        "contacts": {
+            "socials": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": ""
+            },
+            "mail": "mairiedebuoux@orange.fr",
+            "website": "http://www.buoux-village.com/tourisme__1/le_fort_de_buoux",
+            "phone": "0490742575"
+        },
+        "title": " Le Fort de Buoux",
+        "description": "Cette place-forte s'est développée au cours des siècles à partir d'un oppidum.\nElle s’inscrit dans tout un système de défense stratégique, depuis la Combe de Lourmarin jusqu’à Sivergues et au-delà, en protection calculée de la vallée d’Apt.\n\nLe fort compte parmi les plus extraordinaires de l’architecture militaire médiévale : la Baume du Fort, le sentier de la Protohistoire, des défenses astucieuses, les réserves d’eau, les vestiges du village médiéval, l'escalier dérobé et la forteresse XIIIe s., aux remparts successifs, sans oublier quelques mystères archéologiques et l’exceptionnel panorama qu’offre au visiteur cette citadelle du vertige.",
+        "gallery": [{
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e344978aae00810c0405a",
+            "parent": "yzix5di64fg4w9w3chvpj",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e344978aae00810c0405a",
+            "created": "2019-09-15T12:53:29.341Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e345178aae00810c0405b",
+            "parent": "yzix5di64fg4w9w3chvpj",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e345178aae00810c0405b",
+            "created": "2019-09-15T12:53:37.682Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e345b78aae00810c0405c",
+            "parent": "yzix5di64fg4w9w3chvpj",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e345b78aae00810c0405c",
+            "created": "2019-09-15T12:53:47.501Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e346078aae00810c0405d",
+            "parent": "yzix5di64fg4w9w3chvpj",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e346078aae00810c0405d",
+            "created": "2019-09-15T12:53:52.419Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 600
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e347578aae00810c0405e",
+            "parent": "yzix5di64fg4w9w3chvpj",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e347578aae00810c0405e",
+            "created": "2019-09-15T12:54:13.737Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 533,
+                "height": 800
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7e348d78aae00810c0405f",
+            "parent": "yzix5di64fg4w9w3chvpj",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7e348d78aae00810c0405f",
+            "created": "2019-09-15T12:54:37.028Z",
+            "__v": 0
+        }],
+        "constraints": [],
+        "free": false,
+        "min_price": 4,
+        "_id": "5d7e349e78aae00810c04075",
+        "address": {
+            "postal_code": "84480",
+            "locality": "Buoux",
+            "country": "France",
+            "full_address": "84480 Buoux, France",
+            "place_id": "ChIJCQa0j-4XyhIRNmicUIJgOpA",
+            "location": {
+                "lng": "5.3775929999999335",
+                "lat": "43.831611"
+            }
+        },
+        "pricings": {
+            "informations": "",
+            "_id": "5d9b4e8f7aeed5083aca4af0",
+            "pricings": [{
+                "name": "Adulte",
+                "prefix": "",
+                "suffix": "",
+                "price": 5,
+                "description": "",
+                "_id": "5d9b4e8f7aeed5083aca4af4"
+            }, {
+                "name": "Étudiant",
+                "prefix": "",
+                "suffix": "",
+                "price": 4,
+                "description": "Pour les scolaires et étudiants de 10 à 25 ans.",
+                "_id": "5d9b4e8f7aeed5083aca4af3"
+            }, {
+                "name": "Groupe Adulte",
+                "prefix": "à partir de",
+                "suffix": "/pers",
+                "price": 4,
+                "description": "Tarif groupe à partir de 15 personnes.",
+                "_id": "5d9b4e8f7aeed5083aca4af2"
+            }, {
+                "name": "Gratuité",
+                "prefix": "",
+                "suffix": "",
+                "price": 0,
+                "description": "Gratuit pour les moins de 10 ans.",
+                "_id": "5d9b4e8f7aeed5083aca4af1"
+            }],
+            "created": "2019-10-07T14:41:19.441Z",
+            "__v": 0
+        },
+        "schedule": {
+            "periods": [],
+            "_id": "5d9b4e4d7aeed5083aca4aef",
+            "global": {
+                "type": "global",
+                "days": [{
+                    "name": "lundi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "mardi",
+                    "closed": "true"
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "samedi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "dimanche",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }],
+                "_id": "5d9b4e4d7aeed5083aca4aee",
+                "created": "2019-10-07T14:40:13.738Z",
+                "__v": 0
+            },
+            "closed_periods": [],
+            "created": "2019-10-07T14:40:13.741Z",
+            "__v": 0
+        }
+    }, {
+        "duration": {
+            "days": 0,
+            "hours": 2,
+            "minutes": 0
+        },
+        "contacts": {
+            "socials": {
+                "facebook": "https://www.facebook.com/MAISON-DE-LA-TRUFFE-ET-DU-VIN-DU-LUBERON-104242729607320",
+                "instagram": "",
+                "twitter": ""
+            },
+            "mail": "info@vin-truffe-luberon.com",
+            "website": "http://www.vin-truffe-luberon.com",
+            "phone": "0490723837"
+        },
+        "title": "Maison de la Truffe et du Vin du Luberon",
+        "description": "La Maison de la Truffe et du Vin du Luberon est un lieu de rencontre autour du monde de la truffe et des vins du Parc Régional du Luberon.\n\nIci, amateurs et professionnels se croisent et échangent ... points de vue, expériences, formations et informations.\n\nL’Hôtel d’Astier de Montfaucon (XVIIe/XVIIIe s.) abrite cet espace de connaissance du monde de la truffe et du vin et propose :\n\n-une œnothèque avec tous les producteurs du Parc Régional du Luberon (AOP Luberon, Ventoux et Pierrevert). Les vins sont vendus aux prix des caves.\n\n-une boutique de produits à base de truffe et en saison, des truffes fraîches, une librairie de livres sur la Provence, le vin et la truffe, des produits régionaux, ...\n\n-un bar à vin et un restaurant de spécialités à la truffe (de 12h30 et jusqu’à 17h).\n\n-un laboratoire équipé de 18 postes individuels de dégustations pour des formations œnologiques destinées aux amateurs.",
+        "gallery": [{
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7ea29478aae00810c04757",
+            "parent": "cfnbr5kicnjpbwdpg8xyd",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7ea29478aae00810c04757",
+            "created": "2019-09-15T20:44:04.328Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7ea29778aae00810c04758",
+            "parent": "cfnbr5kicnjpbwdpg8xyd",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7ea29778aae00810c04758",
+            "created": "2019-09-15T20:44:07.254Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7ea29978aae00810c04759",
+            "parent": "cfnbr5kicnjpbwdpg8xyd",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7ea29978aae00810c04759",
+            "created": "2019-09-15T20:44:09.666Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7ea29c78aae00810c0475a",
+            "parent": "cfnbr5kicnjpbwdpg8xyd",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7ea29c78aae00810c0475a",
+            "created": "2019-09-15T20:44:12.563Z",
+            "__v": 0
+        }],
+        "constraints": [],
+        "free": true,
+        "min_price": 5,
+        "_id": "5d7ea17178aae00810c04728",
+        "address": {
+            "postal_code": "84560",
+            "locality": "Ménerbes",
+            "country": "France",
+            "full_address": "Place de l'Horloge, 84560 Ménerbes, France",
+            "place_id": "EitQbGFjZSBkZSBsJ0hvcmxvZ2UsIDg0NTYwIE3DqW5lcmJlcywgRnJhbmNlIi4qLAoUChIJzTwibo0PyhIRaNeE7U0-nzYSFAoSCTm4-hr0D8oSEYjv93Pzq6hj",
+            "location": {
+                "lng": "5.203815999999961",
+                "lat": "43.834124"
+            }
+        },
+        "pricings": null,
+        "schedule": {
+            "periods": [{
+                "type": "custom",
+                "days": [{
+                    "name": "lundi",
+                    "closed": "true"
+                }, {
+                    "name": "mardi",
+                    "closed": "true"
+                }, {
+                    "name": "mercredi",
+                    "closed": "true"
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "samedi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5d925e3b299e2e083ac0f006",
+                "start_date": "01/01/2019",
+                "end_date": "31/03/2019",
+                "created": "2019-09-30T19:57:47.858Z",
+                "__v": 0
+            }, {
+                "type": "custom",
+                "days": [{
+                    "name": "lundi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "samedi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "dimanche",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }],
+                "_id": "5d925e3b299e2e083ac0f007",
+                "start_date": "01/04/2019",
+                "end_date": "31/10/2019",
+                "created": "2019-09-30T19:57:47.858Z",
+                "__v": 0
+            }],
+            "_id": "5d925e3b299e2e083ac0f008",
+            "global": {
+                "type": "global",
+                "days": [{
+                    "name": "lundi",
+                    "closed": "true"
+                }, {
+                    "name": "mardi",
+                    "closed": "true"
+                }, {
+                    "name": "mercredi",
+                    "closed": "true"
+                }, {
+                    "name": "jeudi",
+                    "closed": "true"
+                }, {
+                    "name": "vendredi",
+                    "closed": "true"
+                }, {
+                    "name": "samedi",
+                    "closed": "true"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5d925e3b299e2e083ac0f005",
+                "created": "2019-09-30T19:57:47.856Z",
+                "__v": 0
+            },
+            "closed_periods": [],
+            "created": "2019-09-30T19:57:47.864Z",
+            "__v": 0
+        }
+    }, {
+        "duration": {
+            "days": 0,
+            "hours": 2,
+            "minutes": 0
+        },
+        "contacts": {
+            "socials": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": ""
+            },
+            "mail": "contact@jane-eakin.com",
+            "website": "http://www.jane-eakin.com/index.php",
+            "phone": "0614755033"
+        },
+        "title": "Maison Jane Eakin",
+        "description": "Jane Eakin, artiste peintre américaine et femme libre, amie de Joe Downing, a souhaité ouvrir sa maison au public.\n\nPrès de quarante ans de souvenirs et près d’une centaine d’œuvres sont exposées : portraits, caricatures, compositions florales, …\n\nOuverture exceptionnelle pour des groupes en dehors des périodes d'ouverture.",
+        "gallery": [{
+            "infos": {
+                "width": 441,
+                "height": 800
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7ea39c78aae00810c04770",
+            "parent": "zwqgvl273tqnfmgn9630e",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7ea39c78aae00810c04770",
+            "created": "2019-09-15T20:48:28.907Z",
+            "__v": 0
+        }],
+        "constraints": [],
+        "free": true,
+        "min_price": 0,
+        "_id": "5d7ea3a978aae00810c04786",
+        "address": {
+            "postal_code": "84560",
+            "locality": "Ménerbes",
+            "country": "France",
+            "full_address": "Rue Sainte-Barbe, 84560 Ménerbes, France",
+            "place_id": "EilSdWUgU2FpbnRlLUJhcmJlLCA4NDU2MCBNw6luZXJiZXMsIEZyYW5jZSIuKiwKFAoSCcEEki_zD8oSEZA2rBzjvLeEEhQKEgk5uPoa9A_KEhGI7_dz86uoYw",
+            "location": {
+                "lng": "5.206413999999995",
+                "lat": "43.8318608"
+            }
+        },
+        "pricings": null,
+        "schedule": {
+            "periods": [{
+                "type": "custom",
+                "days": [{
+                    "name": "lundi",
+                    "closed": "true"
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "samedi",
+                    "closed": "true"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5dada31e9972f908309972de",
+                "start_date": "31/05/2019",
+                "end_date": "30/06/2019",
+                "created": "2019-10-21T12:22:54.495Z",
+                "__v": 0
+            }, {
+                "type": "custom",
+                "days": [{
+                    "name": "lundi",
+                    "start": {
+                        "hours": "15",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "15",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "15",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "15",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "15",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "samedi",
+                    "closed": "true"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5dada31e9972f908309972df",
+                "start_date": "01/07/2019",
+                "end_date": "31/08/2019",
+                "created": "2019-10-21T12:22:54.496Z",
+                "__v": 0
+            }, {
+                "type": "custom",
+                "days": [{
+                    "name": "lundi",
+                    "closed": "true"
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "14",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "samedi",
+                    "closed": "true"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5dada31e9972f908309972e0",
+                "start_date": "01/09/2019",
+                "end_date": "30/09/2019",
+                "created": "2019-10-21T12:22:54.497Z",
+                "__v": 0
+            }],
+            "_id": "5d9260f7299e2e083ac0f03c",
+            "global": {
+                "type": "global",
+                "days": [{
+                    "name": "lundi",
+                    "closed": "true"
+                }, {
+                    "name": "mardi",
+                    "closed": "true"
+                }, {
+                    "name": "mercredi",
+                    "closed": "true"
+                }, {
+                    "name": "jeudi",
+                    "closed": "true"
+                }, {
+                    "name": "vendredi",
+                    "closed": "true"
+                }, {
+                    "name": "samedi",
+                    "closed": "true"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5d9260f7299e2e083ac0f038",
+                "created": "2019-09-30T20:09:27.428Z",
+                "__v": 0
+            },
+            "closed_periods": [],
+            "created": "2019-09-30T20:09:27.439Z",
+            "__v": 0
+        }
+    }, {
+        "duration": {
+            "days": 0,
+            "hours": 2,
+            "minutes": 0
+        },
+        "contacts": {
+            "socials": {
+                "facebook": "https://fr-fr.facebook.com/Mathieu-Lustrerie-269105423112850",
+                "instagram": "",
+                "twitter": ""
+            },
+            "mail": "france@mathieulustrerie.com",
+            "website": "http://mathieulustrerie.com",
+            "phone": "0490749240"
+        },
+        "title": "Mathieu Museum",
+        "description": "Labellisée Entreprise du Patrimoine Vivant par le Ministère de la Culture, la société de Régis Mathieu a ouvert un nouvel espace, son Musée de la lustrerie.\n\nPrès de 60 luminaires originaux et copies du XVe au XXIe siècle nous plongent dans une véritable féerie de lumière, un voyage au cœur de l'évolution esthétique et des innovations techniques.\n\nLes visites des ateliers sont sur rendez vous, les visites du musée sont libres.",
+        "gallery": [{
+            "infos": {
+                "width": 800,
+                "height": 600
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fbe2978aae00810c04820",
+            "parent": "1we51zyw655oa5f71q414",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fbe2978aae00810c04820",
+            "created": "2019-09-16T16:54:01.826Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 600,
+                "height": 800
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fbe6f78aae00810c04821",
+            "parent": "1we51zyw655oa5f71q414",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fbe6f78aae00810c04821",
+            "created": "2019-09-16T16:55:11.263Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 600,
+                "height": 800
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fbe8878aae00810c04822",
+            "parent": "1we51zyw655oa5f71q414",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fbe8878aae00810c04822",
+            "created": "2019-09-16T16:55:36.175Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 600
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fbe8a78aae00810c04823",
+            "parent": "1we51zyw655oa5f71q414",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fbe8a78aae00810c04823",
+            "created": "2019-09-16T16:55:38.460Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 600
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fbe9878aae00810c04824",
+            "parent": "1we51zyw655oa5f71q414",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fbe9878aae00810c04824",
+            "created": "2019-09-16T16:55:52.566Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 600,
+                "height": 800
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fbea078aae00810c04825",
+            "parent": "1we51zyw655oa5f71q414",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fbea078aae00810c04825",
+            "created": "2019-09-16T16:56:00.430Z",
+            "__v": 0
+        }],
+        "constraints": [],
+        "free": true,
+        "min_price": 0,
+        "_id": "5d7fbc1878aae00810c047c6",
+        "address": {
+            "postal_code": "84400",
+            "locality": "Gargas",
+            "country": "France",
+            "full_address": "Chemin les Vieux Sauvans, 84400 Gargas, France",
+            "place_id": "Ei5DaGVtaW4gbGVzIFZpZXV4IFNhdXZhbnMsIDg0NDAwIEdhcmdhcywgRnJhbmNlIi4qLAoUChIJdaok4NIVyhIRU5a-ZbTrsoYSFAoSCc-04WfOFcoSERwUUQQj_679",
+            "location": {
+                "lng": "5.353464799999983",
+                "lat": "43.90191909999999"
+            }
+        },
+        "pricings": null,
+        "schedule": {
+            "periods": [],
+            "_id": "5d9263c6299e2e083ac0f080",
+            "global": {
+                "type": "global",
+                "days": [{
+                    "name": "lundi",
+                    "start": {
+                        "hours": "8",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "8",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "8",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "8",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "0"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "8",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "closed": "false"
+                }, {
+                    "name": "samedi",
+                    "closed": "true"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5d9263c6299e2e083ac0f07f",
+                "created": "2019-09-30T20:21:26.865Z",
+                "__v": 0
+            },
+            "closed_periods": [],
+            "created": "2019-09-30T20:21:26.869Z",
+            "__v": 0
+        }
+    }, {
+        "duration": {
+            "days": 0,
+            "hours": 2,
+            "minutes": 0
+        },
+        "contacts": {
+            "socials": {
+                "facebook": "",
+                "instagram": "",
+                "twitter": ""
+            },
+            "mail": "musee@apt.fr",
+            "website": "http://www.apt.fr/Le-Musee-de-l-Aventure.html",
+            "phone": "0490749530"
+        },
+        "title": "Musée d'Apt",
+        "description": "L’ensemble des collections retraçant l’activité économique du Pays d’Apt : faïences, fruits confits et ocres sont exposés dans ce musée.\n\nDe l’artisanat à l’industrie, l’histoire de l’essor, des crises, et des mutations est contée au moyen d’expositions sur l’outillage, les produits et les techniques.\n\nLes faïences:\n\n- Exposition de 250 pièces de faïences d’Apt et de Castellet : brûle- parfum, aiguières, assiettes, plats, soupières, bénitiers, tisanières, etc. illustrent les trois étapes chronologiques : les débuts d’une industrie au XVIIIe s., la révolution industrielle au XIXe s. , le déclin de l’industrie et l’artisanat d’art à la fin du XIXe s. et au début du XXe siècle. - Reconstitution d’un atelier de potier-faïencier,\n\n- Section consacrée à la céramique architecturale : tuiles, briques, carrelage\nL’Ocre\n\n- Reconstitution d’une chaîne d’affinage de l’ocre,\n\n- Matériel d’usinage\n\n- Panneaux et maquette sur l’extraction, le traitement et la commercialisation des pigments.\n\nLes fruits confits\n- Exposition d’une collection d’étiquettes et de conditionnements de fruits confits,\n\n- Machines et outillage utilisés dans la confiserie,\n\n- Matériel des anciennes usines, etc.",
+        "gallery": [{
+            "infos": {
+                "width": 800,
+                "height": 600
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fc5bd78aae00810c049a9",
+            "parent": "s9aphtparqmqyeddfkdure",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fc5bd78aae00810c049a9",
+            "created": "2019-09-16T17:26:21.334Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 600
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fc5c178aae00810c049aa",
+            "parent": "s9aphtparqmqyeddfkdure",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fc5c178aae00810c049aa",
+            "created": "2019-09-16T17:26:25.097Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 600
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fc5c378aae00810c049ab",
+            "parent": "s9aphtparqmqyeddfkdure",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fc5c378aae00810c049ab",
+            "created": "2019-09-16T17:26:27.595Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fc5c878aae00810c049ad",
+            "parent": "s9aphtparqmqyeddfkdure",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fc5c878aae00810c049ad",
+            "created": "2019-09-16T17:26:32.032Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fc5cc78aae00810c049ae",
+            "parent": "s9aphtparqmqyeddfkdure",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fc5cc78aae00810c049ae",
+            "created": "2019-09-16T17:26:36.143Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fc5d078aae00810c049af",
+            "parent": "s9aphtparqmqyeddfkdure",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fc5d078aae00810c049af",
+            "created": "2019-09-16T17:26:40.345Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fc5d778aae00810c049b0",
+            "parent": "s9aphtparqmqyeddfkdure",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fc5d778aae00810c049b0",
+            "created": "2019-09-16T17:26:47.277Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 800,
+                "height": 541
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fc64678aae00810c049b1",
+            "parent": "s9aphtparqmqyeddfkdure",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fc64678aae00810c049b1",
+            "created": "2019-09-16T17:28:38.267Z",
+            "__v": 0
+        }],
+        "constraints": ["5d4c339231d36b081432f6f6", "5d4d0eb831d36b081432f701", "5d4d0ef031d36b081432f703"],
+        "free": false,
+        "min_price": 3,
+        "_id": "5d7fc4c478aae00810c0498f",
+        "address": {
+            "postal_code": "84400",
+            "locality": "Apt",
+            "country": "France",
+            "full_address": "14 Place du Postel, 84400 Apt, France",
+            "place_id": "ChIJtad59PQ9yhIR2oy5t6vwXhw",
+            "location": {
+                "lng": "5.397981999999956",
+                "lat": "43.8757431"
+            }
+        },
+        "pricings": {
+            "informations": "",
+            "_id": "5d99b0d77aeed5083aca4867",
+            "pricings": [{
+                "name": "Adulte",
+                "prefix": "",
+                "suffix": "/pers",
+                "price": 5,
+                "description": "",
+                "_id": "5dada4b69972f90830997301"
+            }, {
+                "name": "Tarif réduit",
+                "prefix": "",
+                "suffix": "/pers",
+                "price": 3,
+                "description": "Pour plus d'informations, se renseigner auprès du musée.",
+                "_id": "5dada4b69972f90830997300"
+            }, {
+                "name": "Moins de 18 ans",
+                "prefix": "",
+                "suffix": "/pers",
+                "price": 0,
+                "description": "Gratuit pour les moins de 18 ans.",
+                "_id": "5dada4b69972f908309972ff"
+            }],
+            "created": "2019-10-06T09:16:07.279Z",
+            "__v": 0
+        },
+        "schedule": {
+            "periods": [{
+                "type": "custom",
+                "days": [{
+                    "name": "lundi",
+                    "closed": "true"
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "samedi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5d926622299e2e083ac0f0ac",
+                "start_date": "02/02/2019",
+                "end_date": "30/06/2019",
+                "created": "2019-09-30T20:31:30.973Z",
+                "__v": 0
+            }, {
+                "type": "custom",
+                "days": [{
+                    "name": "lundi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "samedi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5d926622299e2e083ac0f0ad",
+                "start_date": "01/07/2019",
+                "end_date": "31/08/2019",
+                "created": "2019-09-30T20:31:30.973Z",
+                "__v": 0
+            }, {
+                "type": "custom",
+                "days": [{
+                    "name": "lundi",
+                    "closed": "true"
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "samedi",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }, {
+                    "name": "dimanche",
+                    "start": {
+                        "hours": "10",
+                        "minutes": "0"
+                    },
+                    "end": {
+                        "hours": "17",
+                        "minutes": "30"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "14",
+                        "minutes": "0"
+                    }
+                }],
+                "_id": "5d926622299e2e083ac0f0ae",
+                "start_date": "01/09/2019",
+                "end_date": "21/12/2019",
+                "created": "2019-09-30T20:31:30.974Z",
+                "__v": 0
+            }],
+            "_id": "5d926622299e2e083ac0f0af",
+            "global": {
+                "type": "global",
+                "days": [{
+                    "name": "lundi",
+                    "closed": "true"
+                }, {
+                    "name": "mardi",
+                    "closed": "true"
+                }, {
+                    "name": "mercredi",
+                    "closed": "true"
+                }, {
+                    "name": "jeudi",
+                    "closed": "true"
+                }, {
+                    "name": "vendredi",
+                    "closed": "true"
+                }, {
+                    "name": "samedi",
+                    "closed": "true"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5d926622299e2e083ac0f0ab",
+                "created": "2019-09-30T20:31:30.971Z",
+                "__v": 0
+            },
+            "closed_periods": [],
+            "created": "2019-09-30T20:31:30.980Z",
+            "__v": 0
+        }
+    }, {
+        "duration": {
+            "days": 0,
+            "hours": 1,
+            "minutes": 0
+        },
+        "contacts": {
+            "socials": {
+                "facebook": "https://www.facebook.com/Parc-naturel-r%C3%A9gional-du-Luberon-343504089119384/?fref=ts",
+                "instagram": "",
+                "twitter": ""
+            },
+            "mail": "accueil@parcduluberon.fr",
+            "website": "https://www.parcduluberon.fr",
+            "phone": "0490044200"
+        },
+        "title": "Musée de Géologie",
+        "description": "Installé dans les belles caves voûtées de la Maison du Pars d'Apt, le musée vous invite à la découverte des richesses géologiques de ce territoire, la diversité de ses paysages et de ses roches et une extraordinaire collection de fossiles.",
+        "gallery": [{
+            "infos": {
+                "width": 800,
+                "height": 629
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fc6f478aae00810c049c7",
+            "parent": "y0x0e1miogu4wezad8qg",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fc6f478aae00810c049c7",
+            "created": "2019-09-16T17:31:32.187Z",
+            "__v": 0
+        }, {
+            "infos": {
+                "width": 535,
+                "height": 800
+            },
+            "url": "https://cellar-c2.services.clever-cloud.com/compressed/picture/5d7fc72b78aae00810c049c9",
+            "parent": "y0x0e1miogu4wezad8qg",
+            "isCover": false,
+            "type": "gallery",
+            "_id": "5d7fc72b78aae00810c049c9",
+            "created": "2019-09-16T17:32:27.823Z",
+            "__v": 0
+        }],
+        "constraints": [],
+        "free": true,
+        "min_price": 0,
+        "_id": "5d7fc73978aae00810c049df",
+        "address": {
+            "postal_code": "84400",
+            "locality": "Apt",
+            "country": "France",
+            "full_address": "60 Place Jean Jaurès, 84400 Apt, France",
+            "place_id": "ChIJcxka7fQ9yhIRlfgvl_ywmmQ",
+            "location": {
+                "lng": "5.397840900000006",
+                "lat": "43.87530789999999"
+            }
+        },
+        "pricings": null,
+        "schedule": {
+            "periods": [],
+            "_id": "5d926747299e2e083ac0f0dc",
+            "global": {
+                "type": "global",
+                "days": [{
+                    "name": "lundi",
+                    "start": {
+                        "hours": "8",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "13",
+                        "minutes": "30"
+                    }
+                }, {
+                    "name": "mardi",
+                    "start": {
+                        "hours": "8",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "13",
+                        "minutes": "30"
+                    }
+                }, {
+                    "name": "mercredi",
+                    "start": {
+                        "hours": "8",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "13",
+                        "minutes": "30"
+                    }
+                }, {
+                    "name": "jeudi",
+                    "start": {
+                        "hours": "8",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "13",
+                        "minutes": "30"
+                    }
+                }, {
+                    "name": "vendredi",
+                    "start": {
+                        "hours": "8",
+                        "minutes": "30"
+                    },
+                    "end": {
+                        "hours": "18",
+                        "minutes": "0"
+                    },
+                    "closed": "false",
+                    "start_pause": {
+                        "hours": "12",
+                        "minutes": "0"
+                    },
+                    "end_pause": {
+                        "hours": "13",
+                        "minutes": "30"
+                    }
+                }, {
+                    "name": "samedi",
+                    "closed": "true"
+                }, {
+                    "name": "dimanche",
+                    "closed": "true"
+                }],
+                "_id": "5d926747299e2e083ac0f0db",
+                "created": "2019-09-30T20:36:23.372Z",
+                "__v": 0
+            },
+            "closed_periods": [{
+                "_id": "5daffb90fd7aee083a459113",
+                "start_date": "01/01",
+                "end_date": "01/01"
+            }, {
+                "_id": "5daffb90fd7aee083a459112",
+                "start_date": "01/05",
+                "end_date": "01/05"
+            }, {
+                "_id": "5daffb90fd7aee083a459111",
+                "start_date": "08/05",
+                "end_date": "08/05"
+            }, {
+                "_id": "5daffb90fd7aee083a459110",
+                "start_date": "14/07",
+                "end_date": "14/07"
+            }, {
+                "_id": "5daffb90fd7aee083a45910f",
+                "start_date": "15/08",
+                "end_date": "15/08"
+            }, {
+                "_id": "5daffb90fd7aee083a45910e",
+                "start_date": "01/11",
+                "end_date": "01/11"
+            }, {
+                "_id": "5daffb90fd7aee083a45910d",
+                "start_date": "11/11",
+                "end_date": "11/11"
+            }, {
+                "_id": "5daffb90fd7aee083a45910c",
+                "start_date": "25/12",
+                "end_date": "25/12"
+            }],
+            "created": "2019-09-30T20:36:23.375Z",
+            "__v": 0
+        }
+    }],
+    "length": 34
+}

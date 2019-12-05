@@ -1,0 +1,30 @@
+@import './variables.scss';
+
+.no-margin {
+    margin: 0 !important;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+.color-dark {
+    color: $dark;
+}
+
+.background-light {
+    background-color: $light;
+    color: $dark;
+
+    a {
+        color: $dark;
+    }
+}
+
+.color-primary {
+    color: $primary;
+}
+
+.text-center {
+    text-align: center;
+}

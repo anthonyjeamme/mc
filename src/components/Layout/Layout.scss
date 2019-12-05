@@ -1,0 +1,29 @@
+@import '../../style/variables.scss';
+
+.layout {
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position-y: bottom;
+    background-color: #252831;
+    background-attachment: fixed;
+
+    .layout-header {
+        padding: 30px 30px 60px 30px;
+    }
+
+    .layout-footer {
+        padding: 30px;
+        height: 129px;
+        align-items: flex-end;
+        font-size: 14px;
+
+        .footer-item {
+            margin-left: 30px;
+            border-radius: 5px;
+        }
+    }
+}

@@ -1,0 +1,161 @@
+@import '../style/variables.scss';
+@import '../components/Basics/Basics.scss';
+
+.searchbox-params {
+    padding: 15px;
+    flex: 1;
+
+    @media (max-width:$mobile-breakpoint) {
+        padding: 0;
+    }
+}
+
+.homesearchbox {
+
+    @media (max-width: $mobile-breakpoint) {
+        padding: 15px !important;
+    }
+
+    .homesearchbox-layer {
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 998;
+        transition: opacity 300ms;
+        padding: 10;
+        background: $primary;
+        display: flex;
+    }
+
+}
+
+.homesearchbox-previous {
+    position: absolute;
+    top: 100%;
+    margin-top: 20px;
+    color: $light;
+    width: 100%;
+    left: 0;
+    font-size: 15px;
+    text-align: center;
+    transition: opacity 300ms, transform 300ms;
+
+    @media (max-width: $mobile-breakpoint) {
+        display: none;
+    }
+
+    &>span {
+        cursor: pointer;
+
+        &>* {
+            vertical-align: middle;
+        }
+    }
+}
+
+
+.homesearchbox-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: $primary;
+    z-index: 99;
+}
+
+
+.searchbox {
+
+    margin-top: 0px;
+    background-color: white;
+
+    @media (max-width:$mobile-breakpoint) {
+        position: fixed;
+        left: 0;
+        top: 0;
+        right: 0;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+    }
+
+    @media (min-width:$mobile-breakpoint-min) {
+        margin-top: -40px;
+        @include box;
+        width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+        box-sizing: border-box;
+        max-width: 95%;
+    }
+}
+
+
+.homesearch-box {
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+    &>.field {
+        flex: 1;
+    }
+
+    @media (min-width:$mobile-breakpoint-min) {
+        &>.field {
+
+            margin-right: 15px !important;
+        }
+    }
+
+    @media (max-width:$mobile-breakpoint) {
+
+        flex-direction: column;
+
+        &>.field {
+            width: 100%;
+            margin-bottom: 15px;
+        }
+
+        &>.btn {
+            width: 100%;
+        }
+
+        .searchbox-field {
+            padding: 5px;
+
+            &>* {
+                vertical-align: middle;
+            }
+        }
+    }
+}
+
+
+.search-box {
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+    &>.field {
+        flex: 1;
+        margin-right: 15px;
+    }
+
+    @media (max-width:$mobile-breakpoint) {
+
+        &>.field {
+            margin: 0 0 15px 0;
+        }
+
+        .searchbox-field {
+            padding: 5px;
+
+            &>* {
+                vertical-align: middle;
+            }
+        }
+    }
+}

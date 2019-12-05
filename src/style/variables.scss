@@ -1,0 +1,24 @@
+$primary: #1dcdfc;
+$light: #ffffff;
+$dark: #1c1e38;
+$grey: #aaaaaa;
+
+$font-size-normal: 16px;
+$font-size-small: 14px;
+$font-size-medium: 20px;
+$font-size-big: 30px;
+$font-size-xxl: 48px;
+
+$mobile-font-size-big: 30px;
+
+$mobile-breakpoint:667px;
+$mobile-breakpoint-min: 668px;
+$tablet-breakpoint:959px;
+$tablet-breakpoint-min:960px;
+
+:export {
+    primary: $primary;
+    light: $light;
+    dark: $dark;
+    grey: $grey;
+}

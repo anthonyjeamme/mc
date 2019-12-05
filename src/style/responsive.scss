@@ -1,0 +1,21 @@
+@import './variables.scss';
+
+.desktop-only {
+    @media (max-width:$mobile-breakpoint) {
+        display: none;
+    }
+}
+
+.mobile-only {
+
+    @media (min-width:$mobile-breakpoint-min) {
+        display: none !important;
+    }
+}
+
+.no-mobile-only {
+
+    @media (max-width:$mobile-breakpoint) {
+        display: none !important;
+    }
+}

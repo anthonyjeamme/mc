@@ -1,0 +1,214 @@
+@import '../../style/variables.scss';
+
+.box {
+    background-color: $light;
+    padding: 10px;
+    border-radius: 6px;
+    color: $dark;
+    box-shadow: 0 0 20px rgba($dark, 0.15);
+}
+
+@mixin box {
+    background-color: $light;
+    padding: 10px;
+    border-radius: 6px;
+    color: $dark;
+    box-shadow: 0 0 20px rgba($dark, 0.15);
+}
+
+.logo {
+    height: 62px;
+
+    @media (max-width:$mobile-breakpoint) {
+        height: 45px;
+    }
+}
+
+.btn {
+    padding: 12px 16px;
+    background-color: $primary;
+    color: $light;
+    border: 2px solid $primary;
+    border-radius: 4px;
+    outline: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 300ms;
+
+
+    &:hover {
+        // background-color: lighten($primary, 15%);
+    }
+
+    &.transparent {
+        background-color: transparent;
+        color: $grey;
+        border-color: transparent;
+        transition: color 300ms;
+
+        &:hover {
+            color: $dark;
+        }
+    }
+}
+
+.input {
+
+    border: 0;
+    border-bottom: 2px solid rgba(116, 118, 136, 0.4);
+    color: $dark;
+    outline: none;
+    box-sizing: border-box;
+    padding: 1px 0 7px 0;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    transition: border-color 300ms;
+
+    &.has-icon {
+        padding-left: 35px;
+    }
+
+    &:focus {
+        border-color: $primary;
+    }
+
+    @media (max-width:$mobile-breakpoint) {
+
+        border-radius: 20px;
+        border: 2px solid rgba($dark, 0.2);
+        padding: 5px;
+
+    }
+
+}
+
+.datepicker {
+    border-bottom: 2px solid rgba(116, 118, 136, 0.4);
+    color: rgba(116, 118, 136, 0.4);
+    display: inline-block;
+    min-width: 200px;
+    text-align: left;
+    transition: border-color 300ms, color 300ms;
+    cursor: pointer;
+    user-select: none;
+
+    &.active {
+        border-bottom-color: $primary;
+    }
+
+    position: relative;
+
+    .datepicker-popup {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        display: none;
+        background-color: rgba($dark, 0.5);
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 99999;
+    }
+
+    &.active .datepicker-popup {
+        display: flex;
+
+        .datepicker-popup-body {
+            background-color: $light;
+            z-index: 999;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    }
+}
+
+.dropdown {
+    border-bottom: 2px solid rgba(116, 118, 136, 0.4);
+    color: rgba(116, 118, 136, 0.4);
+    display: inline-block;
+    min-width: 200px;
+    text-align: left;
+    transition: border-color 300ms, color 300ms;
+    position: relative;
+    font-size: 15px;
+    user-select: none;
+    // z-index: 9;
+
+    .dropdown-title {
+        cursor: pointer;
+
+        height: 31px;
+
+        &>* {
+            vertical-align: middle;
+        }
+
+        &>span {
+            margin-left: 10px;
+            color: $dark;
+        }
+    }
+
+    &.active {
+        border-bottom-color: $primary;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: $light;
+        border-radius: 0 0 3px 3px;
+        box-shadow: 0 3px 3px rgba($dark, 0.2);
+        width: 100%;
+        margin-top: 2px;
+        z-index: 999;
+    }
+
+    &.active .dropdown-content {
+        display: block;
+        padding: 10px;
+        box-sizing: border-box;
+
+        .dropdown-content-item {
+            cursor: pointer;
+
+            &>* {
+                vertical-align: middle;
+            }
+
+            &>span {
+                color: $dark;
+            }
+        }
+
+        :not(:nth-child(1)) {
+            margin-top: 5px;
+        }
+
+        :not(:nth-last-child(1)) {
+            margin-bottom: 5px;
+        }
+    }
+}
+
+.field {
+    .field-title {
+        cursor: pointer;
+
+        height: 31px;
+
+        &>* {
+            vertical-align: middle;
+        }
+
+        &>span {
+            margin-left: 10px;
+            color: $dark;
+        }
+    }
+}
